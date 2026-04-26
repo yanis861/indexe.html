@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: blue;
+    border: 3px solid black;
+    border-radius: 5px;
+}
+h1{
+    font-size: 40px;
+    color: rgb(13, 179, 201);
+}
+footer p{
+    background-color: white;
+    border: 3px solid rgb(95, 85, 85);
+}
+nav a{
+    background-color: green;
+    margin: 10px;
+    padding: 2px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+.h{
+    background-color: brown;
+    border: 3px solid black;
+    border-radius: 5px;
+}
+.discount{
+    font-size: 20px;
+}
